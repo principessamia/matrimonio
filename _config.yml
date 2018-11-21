@@ -8,7 +8,7 @@ owner: Vaple
 first_published: 2018
 email: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: " # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 social:
   github: https://github.com/principessamia
